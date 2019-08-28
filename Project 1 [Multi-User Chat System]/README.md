@@ -6,7 +6,7 @@ To view the commands, type //help and enter. It will show other commands that ca
 
 The commands of Dashboard:
 
-<table border="2">
+<table>
  <tr>
   <th>Commands</th>
   <th>Usage</th>
@@ -40,7 +40,7 @@ The commands of Dashboard:
   
 The commands of Users:
   
-<table border="2">
+<table>
  <tr>
           <th>Commands</th>
           <th>Usage</th>
